@@ -1,0 +1,18 @@
+C:\Users\Surya\AppData\Local\Temporary Projects\Kas\obj\Debug\Kas.login.resources
+C:\Users\Surya\AppData\Local\Temporary Projects\Kas\obj\Debug\Kas.Resources.resources
+C:\Users\Surya\AppData\Local\Temporary Projects\Kas\obj\Debug\Kas.vbproj.GenerateResource.Cache
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\bin\Debug\Kas.exe.config
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\bin\Debug\Kas.exe
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\bin\Debug\Kas.pdb
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\bin\Debug\Kas.xml
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\obj\Debug\Kas.login.resources
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\obj\Debug\Kas.Resources.resources
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\obj\Debug\Kas.vbproj.GenerateResource.Cache
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\obj\Debug\Kas.exe
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\obj\Debug\Kas.xml
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\obj\Debug\Kas.pdb
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\obj\Debug\Kas.vbprojResolveAssemblyReference.cache
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\obj\Debug\Kas.Home.resources
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\obj\Debug\Kas.kKeluar.resources
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\obj\Debug\Kas.kMasuk.resources
+C:\Users\Surya\Documents\Visual Studio 2012\Projects\Kas\Kas\obj\Debug\Kas.rekap.resources
